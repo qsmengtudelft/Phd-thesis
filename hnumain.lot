@@ -1,0 +1,19 @@
+\contentsline {table}{\numberline {1.1}{\ignorespaces 全球已建成的主要漂浮式风电项目（根据网络数据整理）}}{3}{section*.16}
+\contentsline {table}{\numberline {1.2}{\ignorespaces 漂浮式风力机动力学主要模块及建模方法}}{7}{section*.21}
+\contentsline {table}{\numberline {2.1}{\ignorespaces NREL OC3 5-MW 浮式风力机的结构设计参数}}{27}{section*.72}
+\contentsline {table}{\numberline {3.1}{\ignorespaces 浮体固有频率}}{69}{section*.152}
+\contentsline {table}{\numberline {3.2}{\ignorespaces NREL OC3 风力机的气动阻尼、辐射阻尼和 Morison 粘性阻尼比（风速为 11.4 m/s、波高为 5 m、波浪周期为 9.6 s）}}{71}{section*.162}
+\contentsline {table}{\numberline {3.3}{\ignorespaces 平台、塔筒和转子模态的固有频率}}{74}{section*.169}
+\contentsline {table}{\numberline {4.1}{\ignorespaces 水动力阻尼比（波高 5m，波浪周期 9.6s）}}{84}{section*.188}
+\contentsline {table}{\numberline {4.2}{\ignorespaces 叶轮振型 MAC 值}}{86}{section*.192}
+\contentsline {table}{\numberline {4.3}{\ignorespaces 不同模型间失稳特性和计算复杂度的比较（风速：50 m/s，方位角：0°）}}{92}{section*.208}
+\contentsline {table}{\numberline {5.1}{\ignorespaces 动态失速气动力迟滞效应验证算例}}{112}{section*.237}
+\contentsline {table}{\numberline {6.1}{\ignorespaces 艏摇模态水动力阻尼比（波高为 5 m，波浪周期为 9.6 s）}}{130}{section*.271}
+\contentsline {table}{\numberline {6.2}{\ignorespaces 涡流发生器参数优化范围和利用 PSO 算法得到的优化结果}}{133}{section*.279}
+\contentsline {table}{\numberline {6.3}{\ignorespaces IEA 15-MW\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 风力机的固有频率验证}}{137}{section*.287}
+\contentsline {table}{\numberline {6.4}{\ignorespaces 5 MW 和 15 MW 风力机摆振失稳风偏角范围及涡流发生器优化控制效果汇总}}{138}{section*.290}
+\contentsline {table}{\numberline {6.5}{\ignorespaces 叶片摆振、塔筒侧向和平台艏摇模态的失速颤振控制目标}}{142}{section*.302}
+\contentsline {table}{\numberline {8.1}{\ignorespaces 不同风力机模型的叶片面外归一化变形}}{168}{section*.351}
+\contentsline {table}{\numberline {8.2}{\ignorespaces 基准风力发电机叶片预弯统计数据}}{179}{section*.384}
+\contentsline {table}{\numberline {8.3}{\ignorespaces 不同能量损失补偿方案的\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces AEP\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 性能提升比较}}{182}{section*.391}
+\contentsfinish 

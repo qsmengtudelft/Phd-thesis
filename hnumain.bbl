@@ -1,0 +1,1270 @@
+\begin{thebibliography}{100}
+
+\bibitem{beller2011urban}
+Beller C.
+\newblock Urban wind energy:  [Dissertation].
+\newblock Copenhagen: Technical University of Denmark, 2011
+
+\bibitem{irena_wind_energy}
+{International Renewable Energy Agency}.
+\newblock Wind Energy, n.d.
+\newblock
+  {\url{https://www.irena.org/Energy-Transition/Technology/Wind-energy}}.
+\newblock Accessed: 2025-02-13
+
+\bibitem{hansen2007aeroelastic}
+Hansen M~H.
+\newblock Aeroelastic instability problems for wind turbines.
+\newblock Wind Energy, 2007, 10(6): 551--577
+
+\bibitem{lundsager1981dynamic}
+Lundsager P, Petersen H, Frandsen S.
+\newblock The dynamic behaviour of the stall-regulated Nibe A wind turbine.
+  Measurements and a model for stall-induced vibrations.
+\newblock Technical report, Ris{\o} National Laboratory, Copenhagen, Denmark,
+  1981
+
+\bibitem{etde_7800388}
+Friis P~T, Markkilde P~S, Thomsen K, et~al.
+\newblock Loads for wind turbines in inhomogeneous terrain.
+\newblock Technical report, Ris{\o} National Laboratory, Copenhagen, Denmark,
+  1991
+
+\bibitem{jingquanwang2010}
+王景全, 陈政清.
+\newblock
+  试析海上风机在强台风下叶片受损风险与对策——考察红海湾风电场的启示.
+\newblock 中国工程科学, 2010, 12(11): 32--34
+
+\bibitem{men2024aeroelastic}
+Men J~Y, Ma G, Ma Q~W, et~al.
+\newblock Aeroelastic instability analysis of floating offshore and onshore
+  wind turbines under extreme conditions.
+\newblock Ocean Engineering, 2024, 296: 117014
+
+\bibitem{bir2007aeroelastic}
+Bir G, Jonkman J.
+\newblock Aeroelastic instabilities of large offshore and onshore wind
+  turbines.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Copenhagen, 2007,  012069
+
+\bibitem{Bayati_2018}
+Bayati I, Belloli M, Bernini L, et~al.
+\newblock UNAFLOW project: UNsteady Aerodynamics of FLOating Wind turbines.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Milano, 2018,  072037
+
+\bibitem{johlas2021floating}
+Johlas H~M, Mart{\'\i}nez-Tossas L~A, Churchfield M~J, et~al.
+\newblock Floating platform effects on power generation in spar and
+  semisubmersible wind turbines.
+\newblock Wind Energy, 2021, 24(8): 901--916
+
+\bibitem{macaskill2013offshore}
+MacAskill A, Mitchell P.
+\newblock Offshore wind—An overview.
+\newblock Wiley Interdisciplinary Reviews: Energy and Environment, 2013, 2(4):
+  374--383
+
+\bibitem{barthelmie1994vindeby}
+Barthelmie R~J, Courtney M, H{\o}jstrup J, et~al.
+\newblock The Vindeby project: A description.
+\newblock 1994.
+
+\bibitem{skaare2015analysis}
+Skaare B, Nielsen F~G, Hanson T~D, et~al.
+\newblock Analysis of measurements and simulations from the Hywind Demo
+  floating wind turbine.
+\newblock Wind Energy, 2015, 18(6): 1105--1122
+
+\bibitem{jacobsen2021influence}
+Jacobsen A, Godvik M.
+\newblock Influence of wakes and atmospheric stability on the floater responses
+  of the Hywind Scotland wind turbines.
+\newblock Wind Energy, 2021, 24(2): 149--161
+
+\bibitem{jonkman2009definition}
+Jonkman J, Butterfield S, Musial W, et~al.
+\newblock Definition of a 5-MW reference wind turbine for offshore system
+  development.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2009
+
+\bibitem{bak2013description}
+Bak C, Zahle F, Bitsche R, et~al.
+\newblock Description of the DTU 10 MW reference wind turbine.
+\newblock Technical report, DTU Wind Energy, Copenhagen, Denmark, 2013
+
+\bibitem{gaertner2020definition}
+Gaertner E.
+\newblock Definition of the IEA 15-Megawatt offshore reference wind.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2020
+
+\bibitem{zahle2024definition}
+Zahle F, Barlas T, Lonbaek K, et~al.
+\newblock Definition of the IEA Wind 22-Megawatt offshore reference wind
+  turbine.
+\newblock Technical report, National Renewable Energy Laboratory (NREL),
+  Golden, CO (United States), 2024
+
+\bibitem{jonkman2010definition}
+Jonkman J.
+\newblock Definition of the floating system for Phase IV of OC3.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2010
+
+\bibitem{robertson2014definition}
+Robertson A, Jonkman J, Masciola M, et~al.
+\newblock Definition of the semisubmersible floating system for phase II of
+  OC4.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2014
+
+\bibitem{robertson2013offshore}
+Robertson A, Jonkman J, Vorpahl F, et~al.
+\newblock Offshore code comparison collaboration continuation within IEA wind
+  task 30: Phase II results regarding a floating semisubmersible wind system.
+\newblock In: Proc of International Conference on Offshore Mechanics and Arctic
+  Engineering.
+\newblock San Francisco, 2014,  V09BT09A012
+
+\bibitem{yu2017public}
+Yu W, M{\"u}ller K, Lemmer F, et~al.
+\newblock Public definition of the two LIFES50+ 10MW floater concepts.
+\newblock Technical report, LIFES50+ deliverable, 2017
+
+\bibitem{allen2020definition}
+Allen C, Viscelli A, Dagher H, et~al.
+\newblock Definition of the UMaine VolturnUS-S reference platform developed for
+  the IEA wind 15-Megawatt offshore reference wind turbine.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2020
+
+\bibitem{jonkman2007dynamics}
+Jonkman J~M.
+\newblock Dynamics modeling and loads analysis of an offshore floating wind
+  turbine:  [Dissertation].
+\newblock Boulder: University of Colorado, 2007
+
+\bibitem{robertson2014offshore}
+Robertson A, Jonkman J, Musial W, et~al.
+\newblock Offshore code comparison collaboration, continuation: Phase II
+  results of a floating semisubmersible wind system.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2014
+
+\bibitem{hansen2015aerodynamics}
+Hansen M.
+\newblock Aerodynamics of wind turbines.
+\newblock London: Earthscan, 2008
+
+\bibitem{otter2022review}
+Otter A, Murphy J, Pakrashi V, et~al.
+\newblock A review of modelling techniques for floating offshore wind turbines.
+\newblock Wind Energy, 2022, 25(5): 831--857
+
+\bibitem{morison1950force}
+Morison J~R, Johnson J~W, Schaaf S~A.
+\newblock The force exerted by surface waves on piles.
+\newblock Journal of Petroleum Technology, 1950, 2(05): 149--154
+
+\bibitem{wendt2015verification}
+Wendt F~F, Robertson A, Jonkman J~M, et~al.
+\newblock Verification of new floating capabilities in FAST v8.
+\newblock In: Proc of 33rd Wind Energy Symposium.
+\newblock Kissimmee, 2015,  1204
+
+\bibitem{cummins1962impulse}
+Cummins W~E.
+\newblock The impulse response function and ship motions.
+\newblock In: Proc of Symposium on Ship Theory at the Institut flir Schiffbau
+  der Universitit Hamburg.
+\newblock Hamburg, 1962,  1--11
+
+\bibitem{armesto2015comparative}
+Armesto J~A, Guanche R, Jesus F~d, et~al.
+\newblock Comparative analysis of the methods to compute the radiation term in
+  Cummins'equation.
+\newblock Journal of Ocean Engineering and Marine Energy, 2015, 1(4): 377--393
+
+\bibitem{ren2024phd}
+任永礼.
+\newblock
+  海上漂浮式风机动力学一体化建模方法及抗船撞性能研究:
+  [湖南大学博士学位论文].
+\newblock 长沙: 湖南大学, 2024
+
+\bibitem{steinacker2022efficient}
+Steinacker H, Lemmer F, Raach S, et~al.
+\newblock Efficient multibody modeling of offshore wind turbines with flexible
+  substructures.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Delft, 2022,  042007
+
+\bibitem{hoeg2018influence}
+H{\o}eg C, Zhang Z~L.
+\newblock The influence of different mooring line models on the stochastic
+  dynamic responses of floating wind turbines.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Milano, 2018,  062016
+
+\bibitem{fontanella20196}
+Fontanella A, Bayati I, Taruffi F, et~al.
+\newblock A 6-DOFs hardware-in-the-loop system for wind tunnel tests of
+  floating offshore wind turbines.
+\newblock In: Proc of International Conference on Offshore Mechanics and Arctic
+  Engineering.
+\newblock Glasgow, 2019,  V010T09A055
+
+\bibitem{belloli2020hybrid}
+Belloli M, Bayati I, Facchinetti A, et~al.
+\newblock A hybrid methodology for wind tunnel testing of floating offshore
+  wind turbines.
+\newblock Ocean Engineering, 2020, 210(9): 107592
+
+\bibitem{fontanella2023controller}
+Fontanella A, Daka E, Novais F, et~al.
+\newblock Controller design for model-scale rotors and validation using
+  prescribed motion.
+\newblock Wind Energy Science, 2023, 8(9): 1351--1368
+
+\bibitem{helder2013umaine}
+Helder J, Pietersma M.
+\newblock UMaine--DeepCwind/OC4 semi floating wind turbine repeat tests.
+\newblock Technical report, University of Maine, 2013
+
+\bibitem{zqchen2005bridge}
+陈政清.
+\newblock 桥梁风工程.
+\newblock 北京：人民交通出版社, 2005
+
+\bibitem{manolas2022assessment}
+Manolas D~I, Chaviaropoulos P~K, Riziotis V~A.
+\newblock Assessment of vortex induced vibrations on wind turbines.
+\newblock In: Proc of WindEurope Annual Event.
+\newblock Bilbao, 2022,  012011
+
+\bibitem{pirrung2024vortex}
+Pirrung G~R, Grinderslev C, S{\o}rensen N~N, et~al.
+\newblock Vortex-induced vibrations of wind turbines: From single blade to full
+  rotor simulations.
+\newblock Renewable Energy, 2024, 226: 120381
+
+\bibitem{ebstrup2024numerical}
+Ebstrup K, S{\o}rensen N~N, Bertagnolio F, et~al.
+\newblock Numerical investigation of vortex-induced forces on a wind turbine
+  tower segment at very high Reynolds numbers.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Florence, 2024,  022048
+
+\bibitem{vire2019two}
+Vir{\'e} A, Derksen A, Folkersma M, et~al.
+\newblock Two-dimensional numerical simulations of vortex-induced vibrations
+  for wind turbine towers.
+\newblock Wind Energy Science Discussions, 2019, 2019: 1--19
+
+\bibitem{KITAGAWA1997731}
+Kitagawa T, Wakahara T, Fujino Y, et~al.
+\newblock An experimental study on vortex-induced vibration of a circular
+  cylinder tower at a high wind speed.
+\newblock Journal of Wind Engineering and Industrial Aerodynamics, 1997, 69-71:
+  731--744
+
+\bibitem{arnold2024semi}
+Arnold M, Filopoulos S, White W, et~al.
+\newblock A semi-empirical model for time-domain tower vortex induced vibration
+  load simulations of wind turbines.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Florence, 2024,  022032
+
+\bibitem{chen2023stall}
+Chen C, Zhou J~W, Li F~M, et~al.
+\newblock Nonlinear vortex-induced vibration of wind turbine towers: Theory and
+  experimental validation.
+\newblock Mechanical Systems and Signal Processing, 2023, 204: 110772
+
+\bibitem{zou2015analysis}
+Zou F, Riziotis V, Voutsinas S, et~al.
+\newblock Analysis of vortex-induced and stall-induced vibrations at standstill
+  conditions using a free wake aerodynamic code.
+\newblock Wind Energy, 2015, 18(12): 2145--2169
+
+\bibitem{skrzypinski2014vortex}
+Skrzypi{\'n}ski W, Gaunaa M, S{\o}rensen N, et~al.
+\newblock Vortex-induced vibrations of a DU96-W-180 airfoil at 90° angle of
+  attack.
+\newblock Wind Energy, 2014, 17(10): 1495--1514
+
+\bibitem{heinz2016vortex}
+Heinz J~C, S{\o}rensen N~N, Zahle F, et~al.
+\newblock Vortex-induced vibrations on a modern wind turbine blade.
+\newblock Wind Energy, 2016, 19(11): 2041--2051
+
+\bibitem{horcas2020vortex}
+Horcas S, Barlas T, Zahle F, et~al.
+\newblock Vortex induced vibrations of wind turbine blades: Influence of the
+  tip geometry.
+\newblock Physics of Fluids, 2020, 32(6)
+
+\bibitem{ericsson1973stall}
+Ericsson L~E, Reding J~P.
+\newblock Stall-flutter analysis.
+\newblock Journal of Aircraft, 1972, 10(1): 5--13
+
+\bibitem{crimi1973analysis}
+Crimi P.
+\newblock Analysis of stall flutter of a helicopter radar blade.
+\newblock Technical report, NASA Langley Research Center, Hampton, VA (United
+  States), 1973
+
+\bibitem{santhanam2022surrogate}
+Santhanam C, Riva R, Knudsen T.
+\newblock Surrogate models for predicting stall-induced vibrations on wind
+  turbine blades.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Delft, 2022,  032005
+
+\bibitem{santhanam2023study}
+Santhanam C, Riva R, Knudsen T.
+\newblock A study of stall-induced vibrations using surrogate-based
+  optimization.
+\newblock Renewable Energy, 2023, 214: 201--215
+
+\bibitem{stettner2016stall}
+Stettner M, Reijerkerk M~J, L{\"u}nenschlo{\ss} A, et~al.
+\newblock Stall-induced vibrations of the AVATAR rotor blade.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock München, 2016,  042019
+
+\bibitem{skrzypinski2015wind}
+Skrzypi{\'n}ski W, Gaunaa M.
+\newblock Wind turbine blade vibration at standstill conditions—the effect of
+  imposing lag on the aerodynamic response of an elastically mounted airfoil.
+\newblock Wind Energy, 2015, 18(3): 515--527
+
+\bibitem{hansen2003improved}
+Hansen M~H.
+\newblock Improved modal dynamics of wind turbines to avoid stall-induced
+  vibrations.
+\newblock Wind Energy, 2003, 6(2): 179--195
+
+\bibitem{hansen2004aeroelastic}
+Hansen M.
+\newblock Aeroelastic stability analysis of wind turbines using an eigenvalue
+  approach.
+\newblock Wind Energy, 2004, 7(2): 133--143
+
+\bibitem{chaviaropoulos2001flap}
+Chaviaropoulos P.
+\newblock Flap/lead--lag aeroelastic stability of wind turbine blades.
+\newblock Wind Energy, 2001, 4(4): 183--200
+
+\bibitem{bir2008multi}
+Bir G.
+\newblock Multi-blade coordinate transformation and its application to wind
+  turbine analysis.
+\newblock In: Proc of 46th AIAA aerospace sciences meeting and exhibit.
+\newblock Reno, 2008,  1300
+
+\bibitem{coleman1957theory}
+Coleman R~P, Feingold A~M.
+\newblock Theory of self-excited mechanical oscillations of helicopter rotors
+  with hinged blades.
+\newblock Technical report, National Aeronautics and Space Administration, 1957
+
+\bibitem{thirstrup1998prediction}
+Petersen J~T, Madsen H~A, Bj{\"o}rck A, et~al.
+\newblock Prediction of dynamic loads and induced vibrations in stall.
+\newblock Technical report, Risø National Laboratory, Copenhagen, Denmark,
+  1998
+
+\bibitem{thomsen2000method}
+Thomsen K, Petersen J~T, Nim E, et~al.
+\newblock A method for determination of damping for edgewise blade vibrations.
+\newblock Wind Energy, 2000, 3(4): 233--246
+
+\bibitem{chen2017identification}
+Chen B, Zhang Z~L, Hua X~G, et~al.
+\newblock Identification of aerodynamic damping in wind turbines using
+  time-frequency analysis.
+\newblock Mechanical Systems and Signal Processing, 2017, 91: 198--214
+
+\bibitem{jonkman2016fast}
+Jonkman J~M, Jonkman B~J.
+\newblock FAST modularization framework for wind turbine simulation:
+  full-system linearization.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock München, 2016,  082010
+
+\bibitem{jonkman2018full}
+Jonkman J~M, Wright A~D, Hayman G~J, et~al.
+\newblock Full-system linearization for floating offshore wind turbines in
+  OpenFAST.
+\newblock In: Proc of International Conference on Offshore Mechanics and Arctic
+  Engineering.
+\newblock Madrid, 2018,  V001T01A028
+
+\bibitem{markou2007aeroelastic}
+Markou H, Hansen M~H, Buhl T, et~al.
+\newblock Aeroelastic stability and control of large wind turbines-main
+  results.
+\newblock In: Proc of European Wind Energy Conference and Exhibition.
+\newblock Milan, 2007
+
+\bibitem{heinz2016aerodynamics}
+Heinz J~C, S{\o}rensen N~N, Riziotis V, et~al.
+\newblock Aerodynamics of large rotors. WP4. Deliverable 4.5.
+\newblock Technical report, ECN Wind Energy, Petten, Netherlands, 2016
+
+\bibitem{wang2017aeroelastic}
+Wang K, Riziotis V~A, Voutsinas S~G.
+\newblock Aeroelastic stability of idling wind turbines.
+\newblock Wind Energy Science, 2017, 2(2): 415--437
+
+\bibitem{branlard2022dynamic}
+Branlard E, Jonkman B, Pirrung G, et~al.
+\newblock Dynamic inflow and unsteady aerodynamics models for modal and
+  stability analyses in OpenFAST.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Delft, 2022,  032044
+
+\bibitem{politis2009stability}
+Politis E~S, Chaviaropoulos P~K, Riziotis V~A, et~al.
+\newblock Stability analysis of parked wind turbine blades.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Marseille, 2009,  16--19
+
+\bibitem{mallik2020aerodynamic}
+Mallik W, Raveh D~E.
+\newblock Aerodynamic damping investigations of light dynamic stall on a
+  pitching airfoil via modal analysis.
+\newblock Journal of Fluids and Structures, 2020, 98: 103111
+
+\bibitem{meng2024reduced}
+Meng F~Z, Lio A~W, Riva R.
+\newblock Reduced-order modelling of floating offshore wind turbine:
+  Aero-hydro-elastic stability analysis.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Florence, 2024,  062012
+
+\bibitem{theodorsen1935general}
+Theodorsen T.
+\newblock General theory of aerodynamic instability and the mechanism of
+  flutter.
+\newblock Technical report, NACA. Langley Aeronautical Laboratory Langley
+  Field, VA(United States), 1935
+
+\bibitem{HANSEN2006285}
+Hansen M, Sørensen J, Voutsinas S, et~al.
+\newblock State of the art in wind turbine aerodynamics and aeroelasticity.
+\newblock Progress in Aerospace Sciences, 2006, 42(4): 285--330
+
+\bibitem{resor2012aeroelastic}
+Resor B~R, Owens B~C, Griffith D~T.
+\newblock Aeroelastic instability of very large wind turbine blades.
+\newblock In: Proc of European Wind Energy Conference Annual Event.
+\newblock Copenhagen, 2012
+
+\bibitem{kelley2020investigation}
+Kelley C~L, Paquette J.
+\newblock Investigation of flutter for large, highly flexible wind turbine
+  blades.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Delft, 2020,  052078
+
+\bibitem{lobitz2004aeroelastic}
+Lobitz D~W.
+\newblock Aeroelastic stability predictions for a MW-sized blade.
+\newblock Wind Energy, 2004, 7(3): 211--224
+
+\bibitem{lobitz2005parameter}
+Lobitz D~W.
+\newblock Parameter sensitivities affecting the flutter speed of a MW-sized
+  blade.
+\newblock In: Proc of 43rd AIAA Aerospace Sciences Meeting and Exhibit.
+\newblock Reno, 2005
+
+\bibitem{hansen2004stability}
+Hansen M.
+\newblock Stability analysis of three-bladed turbines using an eigenvalue
+  approach.
+\newblock In: Proc of 42nd AIAA Aerospace Sciences Meeting and Exhibit.
+\newblock Reno, 2004
+
+\bibitem{Owens2013}
+Owens B~C, Resor B, Griffith D~T, et~al.
+\newblock Impact of modeling approach on flutter predictions for very large
+  wind.
+\newblock In: Proc of American Helicopter Society 69th Annual Forum.
+\newblock Phoenix, 2013
+
+\bibitem{theodorsen1940mechanism}
+Theodorsen T, Garrick I~E.
+\newblock Mechanism of flutter: A theoretical and experimental investigation of
+  the flutter problem.
+\newblock Technical report, NACA Langley Field, VA(United States), 1940
+
+\bibitem{lu2022novel}
+Lu M~M, Ke S~T, Wu H~X, et~al.
+\newblock A novel forecasting method of flutter critical wind speed for the 15
+  MW wind turbine blade based on aeroelastic wind tunnel test.
+\newblock Journal of Wind Engineering and Industrial Aerodynamics, 2022, 230:
+  105195
+
+\bibitem{manwell2010wind}
+Manwell J~F, McGowan J~G, Rogers A~L.
+\newblock Wind energy explained: Theory, Design and Application.
+\newblock Hoboken: John Wiley \& Sons, 2010
+
+\bibitem{Tibaldi2016An}
+Tibaldi C, Kim T, Larsen T~J, et~al.
+\newblock An investigation on wind turbine resonant vibrations.
+\newblock Wind Energy, 2016, 19(5): 847--859
+
+\bibitem{torres20244p}
+Torres A, Gil J, Plaza A, et~al.
+\newblock 4P operational harmonic and blade vibration in wind turbines: A real
+  case study of an active yaw system and a concrete tower.
+\newblock Renewable Energy, 2024, 227: 120503
+
+\bibitem{trigaux2024impact}
+Trigaux F, Chatelain P, Winckelmans G.
+\newblock Impact of rotor size on the aeroelastic behavior of large turbines: A
+  LES study using flexible actuator lines.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Florence, 2024,  022062
+
+\bibitem{linscott1981mod}
+Linscott B~S, Dennett J~T, Gordon L~H.
+\newblock Mod-2 wind turbine development project.
+\newblock Technical report, NASA Lewis Research Center, Cleveland, OH (United
+  States), 1981
+
+\bibitem{hau2006wind}
+Hau E, Renouard H.
+\newblock Wind turbines: Fundamentals, Technologies, Application, Economics.
+\newblock Springer, 2006
+
+\bibitem{bei2018phd}
+陈孛.
+\newblock 大型风力机气动阻尼识别与叶片抑颤研究:
+  [湖南大学博士学位论文].
+\newblock 长沙: 湖南大学, 2018
+
+\bibitem{capuzzi2014novel1}
+Capuzzi M, Pirrera A, Weaver P.
+\newblock A novel adaptive blade concept for large-scale wind turbines. Part I:
+  Aeroelastic behaviour.
+\newblock Energy, 2014, 73: 15--24
+
+\bibitem{capuzzi2014novel2}
+Capuzzi M, Pirrera A, Weaver P.
+\newblock A novel adaptive blade concept for large-scale wind turbines. Part
+  II: Structural design and power performance.
+\newblock Energy, 2014, 73: 25--32
+
+\bibitem{ng2016aerodynamic}
+Ng B~F, Palacios R, Kerrigan E~C, et~al.
+\newblock Aerodynamic load control in horizontal axis wind turbines with
+  combined aeroelastic tailoring and trailing-edge flaps.
+\newblock Wind Energy, 2016, 19(2): 243--263
+
+\bibitem{larwood2016flutter}
+Larwood S.
+\newblock Flutter of variations on a 5 MW swept wind turbine blade.
+\newblock Journal of Solar Energy Engineering, 2016, 138(2): 024504
+
+\bibitem{li2015damping}
+Li Z, Sun D, Guo J, et~al.
+\newblock A damping blade for wind turbine and its flutter suppressing
+  analysis.
+\newblock Recent Patents on Mechanical Engineering, 2015, 8(2): 132--139
+
+\bibitem{sun2017flutter}
+Sun D~G, Guo J~J, Song Y, et~al.
+\newblock Flutter stability analysis of a perforated damping blade for large
+  wind turbines.
+\newblock Journal of Sandwich Structures \& Materials, 2017, 21(3): 973--989
+
+\bibitem{song1987flutter}
+宋兆泓, 孔瑞莲, 魏星禄等.
+\newblock 风机叶片的防颤设计与试验分析.
+\newblock 航空动力学报, 1987, (4): 328--331
+
+\bibitem{huang2022output}
+Huang X, Yang J, Gao Z, et~al.
+\newblock Output power and wake flow characteristics of a wind turbine with
+  swept blades.
+\newblock Machines, 2022, 10(10): 876
+
+\bibitem{chaviaropoulos2006enhancing}
+Chaviaropoulos P, Politis E, Lekou D, et~al.
+\newblock Enhancing the damping of wind turbine rotor blades, the DAMPBLADE
+  project.
+\newblock Wind Energy, 2006, 9(1-2): 163--177
+
+\bibitem{altay2014vibration}
+Altay O, Taddei F, Butenweg C, et~al.
+\newblock Vibration mitigation of wind turbine towers with tuned mass dampers.
+\newblock Wind Turbine Control and Monitoring, 2014. 337--373
+
+\bibitem{zhang2020optimal}
+Zhang Z~L.
+\newblock Optimal tuning of the tuned mass damper (TMD) for rotating wind
+  turbine blades.
+\newblock Engineering Structures, 2020, 207: 110209
+
+\bibitem{stewart2014impact}
+Stewart G~M, Lackner M~A.
+\newblock The impact of passive tuned mass dampers and wind--wave misalignment
+  on offshore wind turbine loads.
+\newblock Engineering Structures, 2014, 73: 54--61
+
+\bibitem{zhang2016performance}
+Zhang Z~L, Staino A, Basu B, et~al.
+\newblock Performance evaluation of full-scale tuned liquid dampers (TLDs) for
+  vibration control of large wind turbines using real-time hybrid testing.
+\newblock Engineering Structures, 2016, 126: 417--431
+
+\bibitem{zhang2015tuned}
+Zhang Z~L, Basu B, Nielsen S~R.
+\newblock Tuned liquid column dampers for mitigation of edgewise vibrations in
+  rotating wind turbine blades.
+\newblock Structural Control and Health Monitoring, 2015, 22(3): 500--517
+
+\bibitem{chen2022optimal}
+Chen B, Zhang Z~L, Hua X~G, et~al.
+\newblock Optimal calibration of a tuned liquid column damper (TLCD) for
+  rotating wind turbine blades.
+\newblock Journal of Sound and Vibration, 2022, 521: 116565
+
+\bibitem{sarkar2020vibration}
+Sarkar S, Fitzgerald B.
+\newblock Vibration control of spar-type floating offshore wind turbine towers
+  using a tuned mass-damper-inerter.
+\newblock Structural Control and Health Monitoring, 2020, 27(1): e2471
+
+\bibitem{zhang2020tuned}
+Zhang Z~L, Fitzgerald B.
+\newblock Tuned mass-damper-inerter (TMDI) for suppressing edgewise vibrations
+  of wind turbine blades.
+\newblock Engineering Structures, 2020, 221: 110928
+
+\bibitem{fitzgerald2014cable}
+Fitzgerald B, Basu B.
+\newblock Cable connected active tuned mass dampers for control of in-plane
+  vibrations of wind turbine blades.
+\newblock Journal of Sound and Vibration, 2014, 333(23): 5980--6004
+
+\bibitem{fitzgerald2018improved}
+Fitzgerald B, Sarkar S, Staino A.
+\newblock Improved reliability of wind turbine towers with active tuned mass
+  dampers (ATMDs).
+\newblock Journal of Sound and Vibration, 2018, 419: 103--122
+
+\bibitem{politakis2008suppression}
+Politakis G, Haans W, Bussel G.
+\newblock Suppression of classical flutter using a 'smart blade'.
+\newblock In: Proc of 46th AIAA Aerospace Sciences Meeting and Exhibit.
+\newblock Reno, 2008,  1301
+
+\bibitem{chen2022stall}
+Chen C, Zhou J, Li F, et~al.
+\newblock Stall-induced vibrations analysis and mitigation of a wind turbine
+  rotor at idling state: Theory and experiment.
+\newblock Renewable Energy, 2022, 187: 710--727
+
+\bibitem{abbas2023aero}
+Abbas N~J, Bortolotti P, Kelley C, et~al.
+\newblock Aero-servo-elastic co-optimization of large wind turbine blades with
+  distributed aerodynamic control devices.
+\newblock Wind Energy, 2023, 26(8): 763--785
+
+\bibitem{shen2004swashplateless}
+Shen J~W, Yang M, Chopra I.
+\newblock Swashplateless helicopter rotor system with active trailing-edge
+  flaps for primary and vibration controls.
+\newblock In: Proc of 45th AIAA/ASME/ASCE/AHS/ASC Structures, Structural
+  Dynamics \& Materials Conference.
+\newblock Palm Springs, 2004
+
+\bibitem{krishnappa2022aerodynamic}
+Krishnappa L, Sander A, Thoben K~D.
+\newblock Aerodynamic devices to reduce/suppress vortex induced vibrations on a
+  wind turbine tower: A review.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Delft, 2022,  032053
+
+\bibitem{baldacchino2018experimental}
+Baldacchino D, Ferreira C, Tavernier D~D, et~al.
+\newblock Experimental parameter study for passive vortex generators on a 30\%
+  thick airfoil.
+\newblock Wind Energy, 2018, 21(9): 745--765
+
+\bibitem{baldacchino2019vortex}
+Baldacchino D.
+\newblock Vortex generators for flow separation control: Wind turbine
+  applications:  [Dissertation].
+\newblock Delft: Delft University of Technology, 2019
+
+\bibitem{troldborg2016simulations}
+Troldborg N, Zahle F, S{\o}rensen N~N.
+\newblock Simulations of wind turbine rotor with vortex generators.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock München, 2016,  022057
+
+\bibitem{hansen2016aerodynamically}
+Hansen M~O~L, Velte C~M, {\O}ye S, et~al.
+\newblock Aerodynamically shaped vortex generators.
+\newblock Wind Energy, 2016, 19(3): 563--567
+
+\bibitem{moon2023numerical}
+Moon H, Jeong J, Park S, et~al.
+\newblock Numerical and experimental validation of vortex generator effect on
+  power performance improvement in MW-class wind turbine blade.
+\newblock Renewable Energy, 2023, 212: 443--454
+
+\bibitem{zhao2022researches}
+Zhao Z~Z, Jiang R~F, Feng J~X, et~al.
+\newblock Researches on vortex generators applied to wind turbines: A review.
+\newblock Ocean Engineering, 2022, 253: 111266
+
+\bibitem{xue2010advanced}
+Xue S, Johnson B, Chao D, et~al.
+\newblock Advanced aerodynamic modeling of vortex generators for wind turbine
+  applications.
+\newblock In: Proc of European Wind Energy Conference (EWEC).
+\newblock Warsaw, 2010
+
+\bibitem{lynette1996investigation}
+Lynette R.
+\newblock Investigation of V o Generators for Au of Wind Turbine Performance.
+\newblock National Renewable Energy Laboratory: Boulder, CO(United States),
+  1996.
+
+\bibitem{gonzalez2019suppressing}
+Gonz{\'a}lez~Horcas S, Madsen M~H~A, S{\o}rensen N~N, et~al.
+\newblock Suppressing vortex induced vibrations of wind turbine blades with
+  flaps.
+\newblock Recent Advances in CFD for Wind and Tidal Offshore Turbines, 2019.
+  11--24
+
+\bibitem{martin2023design}
+Mart{\'\i}n-Alc{\'a}ntara A, Motta V, Tarantino A, et~al.
+\newblock Design of a passive flow control solution for the mitigation of
+  vortex induced vibrations on wind turbines blade sections as a response to
+  extreme weather events.
+\newblock Sustainable Energy Technologies and Assessments, 2023, 56: 103053
+
+\bibitem{gong2024modeling}
+Gong D~H, Zhou J~W, Liu X~F, et~al.
+\newblock Modeling and vortex-induced vibrations of semi-submersible floating
+  offshore wind turbines.
+\newblock Mechanical Systems and Signal Processing, 2024, 220: 111667
+
+\bibitem{naeini2020flutter}
+Naeini S~F, Mazidi A, Afagh F~F, et~al.
+\newblock Flutter stability analysis of parked floating wind turbine blades.
+\newblock In: Proc of Canadian Society for Mechanical Engineering International
+  Congress.
+\newblock Charlottetown, 2020
+
+\bibitem{Fadaei2023Numerical}
+Fadaei S, Afagh F~F, Langlois R~G, et~al.
+\newblock Numerical flutter analysis of a horizontal axis wind turbine blade
+  with rotational tower base.
+\newblock In: Proc of Canadian Society for Mechanical Engineering International
+  Congress.
+\newblock Charlottetown, 2023
+
+\bibitem{ahsan2022modal}
+Ahsan F, Griffith D~T, Gao J.
+\newblock Modal dynamics and flutter analysis of floating offshore vertical
+  axis wind turbines.
+\newblock Renewable Energy, 2022, 185: 1284--1300
+
+\bibitem{matha2010model}
+Matha D.
+\newblock Model development and loads analysis of an offshore wind turbine on a
+  tension leg platform with a comparison to other floating turbine concepts.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2010
+
+\bibitem{huang2019investigation}
+Huang Y, Wan D.
+\newblock Investigation of interference effects between wind turbine and
+  spar-type floating platform under combined wind-wave excitation.
+\newblock Sustainability, 2019, 12(1): 246
+
+\bibitem{fleming2015simulation}
+Fleming P, Gebraad P~M, Lee S, et~al.
+\newblock Simulation comparison of wake mitigation control strategies for a
+  two-turbine case.
+\newblock Wind Energy, 2015, 18(12): 2135--2143
+
+\bibitem{mancini2020characterization}
+Mancini S, Boorsma K, Caboni M, et~al.
+\newblock Characterization of the unsteady aerodynamic response of a floating
+  offshore wind turbine.
+\newblock Wind Energy Science Discussions, 2020, 2020: 1--26
+
+\bibitem{chen2021numerical}
+Chen Z, Wang X, Guo Y, et~al.
+\newblock Numerical analysis of unsteady aerodynamic performance of floating
+  offshore wind turbine under platform surge and pitch motions.
+\newblock Renewable Energy, 2021, 163: 1849--1870
+
+\bibitem{pustina2020control}
+Pustina L, Lugni C, Bernardini G, et~al.
+\newblock Control of power generated by a floating offshore wind turbine
+  perturbed by sea waves.
+\newblock Renewable and Sustainable Energy Reviews, 2020, 132: 109984
+
+\bibitem{lackner2010performance}
+Lackner M~A, Kuik G~A~M.
+\newblock The performance of wind turbine smart rotor control approaches during
+  extreme loads.
+\newblock Journal of Solar Energy Engineering, 2010, 132(6): 011008
+
+\bibitem{hall2015moordyn}
+Hall M.
+\newblock MoorDyn user’s guide.
+\newblock Technical report, Department of Mechanical Engineering, University of
+  Maine: Orono, ME(United States), 2015
+
+\bibitem{tran2018cfd}
+Tran T~T, Kim D~H.
+\newblock A CFD study of coupled aerodynamic-hydrodynamic loads on a
+  semisubmersible floating offshore wind turbine.
+\newblock Wind Energy, 2018, 21(1): 70--85
+
+\bibitem{yang2020development}
+Yang Y, Bashir M, Michailides C, et~al.
+\newblock Development and application of an aero-hydro-servo-elastic coupling
+  framework for analysis of floating offshore wind turbines.
+\newblock Renewable Energy, 2020, 161: 606--625
+
+\bibitem{chen2018coupled}
+Chen L, Basu B, Nielsen S~R.
+\newblock A coupled finite difference mooring dynamics model for floating
+  offshore wind turbine analysis.
+\newblock Ocean Engineering, 2018, 162: 304--315
+
+\bibitem{jonkman2009dynamics}
+Jonkman J~M.
+\newblock Dynamics of offshore floating wind turbines—model development and
+  verification.
+\newblock Wind Energy, 2009, 12(5): 459--492
+
+\bibitem{blusseau2012gyroscopic}
+Blusseau P, Patel M~H.
+\newblock Gyroscopic effects on a large vertical axis wind turbine mounted on a
+  floating structure.
+\newblock Renewable Energy, 2012, 46: 31--42
+
+\bibitem{craig2006fundamentals}
+Craig~Jr R~R, Kurdila A~J.
+\newblock Fundamentals of structural dynamics.
+\newblock Hoboken: John Wiley \& Sons, 2006
+
+\bibitem{bathe2006finite}
+Bathe K.
+\newblock Finite Element Procedures.
+\newblock Hoboken: Prentice Hall, 2006
+
+\bibitem{zhang2020dynamics}
+Zhang Z~L, H{\o}eg C.
+\newblock Dynamics and control of spar-type floating offshore wind turbines
+  with tuned liquid column dampers.
+\newblock Structural Control and Health Monitoring, 2020, 27(6): e2532
+
+\bibitem{tjavaras1996dynamics}
+Tjavaras A~A.
+\newblock The dynamics of highly extensible cables:  [Dissertation].
+\newblock Cambridge: Massachusetts Institute of Technology, 1996
+
+\bibitem{tjavaras1998mechanics}
+Tjavaras A~A, Zhu Q, Liu Y, et~al.
+\newblock The mechanics of highly-extensible cables.
+\newblock Journal of Sound and Vibration, 1998, 213(4): 709--737
+
+\bibitem{gobat2006time}
+Gobat J, Grosenbaugh M.
+\newblock Time-domain numerical simulation of ocean cable structures.
+\newblock Ocean Engineering, 2006, 33(10): 1373--1400
+
+\bibitem{jiang2024modification}
+Jiang C~Y, Cao F~F, Cui J, et~al.
+\newblock Modification method and impact analysis of aerodynamic loads for
+  fixed wind-wave hybrid devices.
+\newblock Ocean Engineering, 2024, 293: 116594
+
+\bibitem{spera1994wind}
+Spera D~A.
+\newblock Wind turbine technology: Fundamental concepts of wind turbine
+  engineering.
+\newblock New York: American Society of Mechanical Engineers Press, 1994
+
+\bibitem{silva2013unsteady}
+Silva C~T, Donadon M~V.
+\newblock Unsteady blade element-momentum method including returning wake
+  effects.
+\newblock Journal of Aerospace Technology and Management, 2013, 5(1): 27--42
+
+\bibitem{moriarty2005aerodyn}
+Moriarty P~J, Hansen A~C.
+\newblock AeroDyn theory manual.
+\newblock Technical report, National Renewable Energy Laboratory, Golden, CO
+  (US), 2005
+
+\bibitem{pitt1980theoretical}
+Pitt D~M, Peters D~A.
+\newblock Theoretical prediction of dynamic-inflow derivatives.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Bristol, 1980,  No.47
+
+\bibitem{oye1986unsteady}
+{\O}ye S.
+\newblock Unsteady wake effects caused by pitch--angle changes.
+\newblock In: Proc of IEA R\&D WECS Joint Action on Aerodynamics of Wind
+  Turbines, 1st Symposium.
+\newblock Stockholm, 1986,  58--79
+
+\bibitem{oye1990simple}
+{\O}ye S.
+\newblock A simple vortex model of a turbine rotor.
+\newblock In: Proc of Third IEA Symposium on Aerodynamics of Wind Turbines.
+\newblock Harwell, 1990,  4.1--4.15
+
+\bibitem{schepers2012engineering}
+Schepers J~G.
+\newblock Engineering models in wind energy aerodynamics:  [Dissertation].
+\newblock Delft: Delft University of Technology, 2012
+
+\bibitem{larsen2013way}
+Larsen T~J, Madsen H~A.
+\newblock On the way to reliable aeroelastic load simulation on VAWT's.
+\newblock In: Proc of European Wind Energy Conference \& Exhibition.
+\newblock Vienna, 2013
+
+\bibitem{laino2002user}
+Laino D~J, Hansen A~C.
+\newblock User's guide to the wind turbine aerodynamics computer software
+  AeroDyn.
+\newblock Technical report, National Renewable Energy Laboratory(NREL), Golden,
+  CO (United States), 2002
+
+\bibitem{larsen20072}
+Larsen T~J, Hansen A~M.
+\newblock How 2 HAWC2, the user's manual.
+\newblock Ris{\o} National Laboratory, Copenhagen, Denmark, 2007
+
+\bibitem{lindenburg2005phatas}
+Lindenburg C.
+\newblock PHATAS release "NOV-2003" and "APR-2005" user's manual.
+\newblock Technical report, ECN, Petten, Netherlands, 2005
+
+\bibitem{ferreira2022dynamic}
+Ferreira C, Yu W, Sala A, et~al.
+\newblock Dynamic inflow model for a floating horizontal axis wind turbine in
+  surge motion.
+\newblock Wind Energy Science, 2022, 7(2): 469--485
+
+\bibitem{nasa_incline}
+Benson T.
+\newblock Inclination Effects on Lift, n.d.
+\newblock
+  {\url{https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/incline.html}}.
+\newblock Accessed: 2025-01-10
+
+\bibitem{mccroskey1981phenomenon}
+McCroskey W~J.
+\newblock The phenomenon of dynamic stall.
+\newblock Technical report, NASA Ames Research Center Moffett Field, CA(United
+  States), 1981
+
+\bibitem{leishman2006principles}
+Leishman G~J.
+\newblock Principles of helicopter aerodynamics with CD extra.
+\newblock Cambridge: Cambridge University Press, 2006
+
+\bibitem{leishman1989semi}
+Leishman J~G, Beddoes T.
+\newblock A semi-empirical model for dynamic stall.
+\newblock Journal of the American Helicopter Society, 1989, 34(3): 3--17
+
+\bibitem{snel1997heuristic}
+Snel H.
+\newblock Heuristic modelling of dynamic stall characteristics.
+\newblock In: Proc of EWEC-Conference. Bookshop for Scientific Publications.
+\newblock Dublin, 1997,  429--433
+
+\bibitem{tran1980semi}
+Tran C, Petot D.
+\newblock Semi-empirical model for the dynamic stall of airfoils in view of the
+  application to the calculation of responses of a helicopter blade in forward
+  flight.
+\newblock Technical report, Office National d'Études et de Recherches
+  Aérospatiales(ONERA), Palaiseau, Frence, 1980
+
+\bibitem{tarzanin1972prediction}
+Tarzanin F.
+\newblock Prediction of control loads due to blade stall.
+\newblock Journal of the American Helicopter Society, 1972, 17(2): 33--46
+
+\bibitem{oye1991dynamic}
+{\O}ye S.
+\newblock Dynamic stall simulated as time lag of separation.
+\newblock In: Proc of The 4th IEA Symposium on the Aerodynamics of Wind
+  Turbines.
+\newblock Rome, 1991, ~28
+
+\bibitem{mccormick1994aerodynamics}
+McCormick B~W.
+\newblock Aerodynamics, Aeronautics, and Flight Mechanics.
+\newblock Hoboken: John Wiley \& Sons, 1994
+
+\bibitem{van1982comparison}
+Van~Dao B, Penzien J.
+\newblock Comparison of treatments of non-linear drag forces acting on fixed
+  offshore platforms.
+\newblock Applied Ocean Research, 1982, 4(2): 66--72
+
+\bibitem{barltrop2013dynamics}
+Barltrop N~D, Adams A~J.
+\newblock Dynamics of fixed marine structures.
+\newblock Oxford: Butterworth-Heinemann, 2013
+
+\bibitem{en2005eurocode}
+En B, et~al.
+\newblock Eurocode 1: Actions on Structures—Part 1--4: General Actions—Wind
+  Actions.
+\newblock Technical report, British Standard, 2005
+
+\bibitem{shirzadeh2013experimental}
+Shirzadeh R, Devriendt C, Bidakhvidi M~A, et~al.
+\newblock Experimental and computational damping estimation of an offshore wind
+  turbine on a monopile foundation.
+\newblock Journal of Wind Engineering and Industrial Aerodynamics, 2013, 120:
+  96--106
+
+\bibitem{chen2020modelling}
+Chen C, Duffour P, Fromme P.
+\newblock Modelling wind turbine tower-rotor interaction through an aerodynamic
+  damping matrix.
+\newblock Journal of Sound and Vibration, 2020, 489: 115667
+
+\bibitem{deleanu2012theoretical}
+Deleanu D.
+\newblock Theoretical Mechanics, Theory and Applications.
+\newblock Constanta: Nautica Publishing House, 2012
+
+\bibitem{johanning2001hydrodynamic}
+Johanning L, Bearman P, Graham J.
+\newblock Hydrodynamic damping of a large scale surface piercing circular
+  cylinder in planar oscillatory motion.
+\newblock Journal of Fluids and Structures, 2001, 15(7): 891--908
+
+\bibitem{sarpkaya2010wave}
+Sarpkaya T.
+\newblock Wave forces on offshore structures.
+\newblock Cambridge: Cambridge University Press, 2010
+
+\bibitem{karimirad2011hydroelastic}
+Karimirad M, Meissonnier Q, Gao Z, et~al.
+\newblock Hydroelastic code-to-code comparison for a tension leg spar-type
+  floating wind turbine.
+\newblock Marine Structures, 2011, 24(4): 412--435
+
+\bibitem{li2019new}
+Li A~J, Liu Y, Li H~J.
+\newblock New analytical solutions to water wave radiation by vertical
+  truncated cylinders through multi-term Galerkin method.
+\newblock Meccanica, 2019, 54: 429--450
+
+\bibitem{pecher2017handbook}
+Pecher A, Kofoed J~P.
+\newblock Handbook of ocean wave energy.
+\newblock Cham: Springer Nature, 2017
+
+\bibitem{hoeg2021influence}
+H{\o}eg C~E, Zhang Z~L.
+\newblock The influence of gyroscopic effects on dynamic responses of floating
+  offshore wind turbines in idling and operational conditions.
+\newblock Ocean Engineering, 2021, 227: 108712
+
+\bibitem{christiansen2013damping}
+Christiansen S, Bak T, Knudsen T.
+\newblock Damping wind and wave loads on a floating wind turbine.
+\newblock Energies, 2013, 6(8): 4097--4116
+
+\bibitem{guanqun2023anexp}
+Xu G~Q, Yu W, Sciacchitano A, et~al.
+\newblock An experimental study of the unsteady aerodynamics of a DU91-W2-150
+  airfoil at large angles of attack.
+\newblock Wind Energy, 2025, 28(3): e2974
+
+\bibitem{garry2017investigation}
+Kwan G~Y.
+\newblock Investigation of idling instabilities in wind turbine
+  simulations[Thesis].
+\newblock Delft: Delft University of Technology, 2017
+
+\bibitem{allemang1982correlation}
+Allemang R~J.
+\newblock A correlation coefficient for modal vector analysis.
+\newblock In: Proc of The 1st International Modal Analysis Conference.
+\newblock Orlando, 1982,  110--116
+
+\bibitem{petot1989differential}
+Petot D.
+\newblock Differential equation modeling of dynamic stall.
+\newblock La Recherche Aerospatiale(English Edition), 1989, (5): 59--72
+
+\bibitem{stablein2017fundamental}
+St{\"a}blein A~R, Hansen M~H, Pirrung G.
+\newblock Fundamental aeroelastic properties of a bend--twist coupled blade
+  section.
+\newblock Journal of Fluids and Structures, 2017, 68: 72--89
+
+\bibitem{hansen2004beddoes}
+Hansen M~H, Gaunaa M, Madsen H~A.
+\newblock A Beddoes-Leishman type dynamic stall model in state-space and
+  indicial formulations.
+\newblock Technical report, Risø National Laboratory, Copenhagen, Denmark,
+  2004
+
+\bibitem{fung2008introduction}
+Fung Y~C.
+\newblock An introduction to the theory of aeroelasticity.
+\newblock New York: Courier Dover Publications, 2008
+
+\bibitem{khan2018dynamic}
+Khan M~A.
+\newblock Dynamic stall modeling for wind turbines[Thesis].
+\newblock Delft: Delft University of Technology, 2018
+
+\bibitem{gupta2006dynamic}
+Gupta S, Leishman J~G.
+\newblock Dynamic stall modelling of the S809 aerofoil and comparison with
+  experiments.
+\newblock Wind Energy, 2006, 9(6): 521--547
+
+\bibitem{bangga2020improved}
+Bangga G, Lutz T, Arnold M.
+\newblock An improved second order dynamic stall model for wind turbine
+  airfoils.
+\newblock Wind Energy Science Discussions, 2020. 1--36
+
+\bibitem{pereira2010validating}
+Pereira R.
+\newblock Validating the Beddoes-Leishman dynamic stall model in the horizontal
+  axis wind turbine environment[Thesis].
+\newblock Lisbon: University of Lisbon, 2010
+
+\bibitem{elgammi2016modified}
+Elgammi M, Sant T.
+\newblock A modified beddoes--leishman model for unsteady aerodynamic blade
+  load computations on wind turbine blades.
+\newblock Journal of Solar Energy Engineering, 2016, 138(5): 051009
+
+\bibitem{jonas2024master}
+Lohmann J.
+\newblock Non-linear stall-induced instability analysis of a parked
+  rotor[Thesis].
+\newblock Delft: Delft University of Technology, 2024
+
+\bibitem{liux2015DS}
+刘雄, 梁湿, 陈严等.
+\newblock 风力机翼型动态失速气动特性仿真.
+\newblock 工程力学, 2015, 32(3): 203--211
+
+\bibitem{pirrung2017trailed}
+Pirrung G~R, Madsen H~A, Schreck S.
+\newblock Trailed vorticity modeling for aeroelastic wind turbine simulations
+  in standstill.
+\newblock Wind Energy Science, 2017, 2(2): 521--532
+
+\bibitem{larsen2007dynamic}
+Larsen J~W, Nielsen S~R, Krenk S.
+\newblock Dynamic stall model for wind turbine airfoils.
+\newblock Journal of Fluids and Structures, 2007, 23(7): 959--982
+
+\bibitem{karbasian2022numerical}
+Karbasian H~R, Esfahani J~A, Aliyu A~M, et~al.
+\newblock Numerical analysis of wind turbines blade in deep dynamic stall.
+\newblock Renewable Energy, 2022, 197: 1094--1105
+
+\bibitem{grandis2017particle}
+Grandis H, Maulana Y.
+\newblock Particle swarm optimization (PSO) for magnetotelluric (MT) 1D
+  inversion modeling.
+\newblock In: Proc of Southeast Asian Conference on Geophysics.
+\newblock Bangkok, 2017,  012033
+
+\bibitem{gad2022particle}
+Gad A~G.
+\newblock Particle swarm optimization algorithm and its applications: A
+  systematic review.
+\newblock Archives of Computational Methods in Engineering, 2022, 29(5):
+  2531--2561
+
+\bibitem{de2018integral}
+De~Tavernier D, Baldacchino D, Ferreira C.
+\newblock An integral boundary layer engineering model for vortex generators
+  implemented in XFOIL.
+\newblock Wind Energy, 2018, 21(10): 906--921
+
+\bibitem{viterna1982fixed}
+Viterna L~A, Corrigan R~D.
+\newblock Fixed pitch rotor performance of large horizontal axis wind turbines.
+\newblock In: Proc of NASA Conference: Large Horizontal-Axis Wind Turbines.
+\newblock Cleveland, 1982
+
+\bibitem{larsen2007method}
+Larsen T~J, Hanson T~D.
+\newblock A method to avoid negative damped low frequent tower vibrations for a
+  floating, pitch controlled wind turbine.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Copenhagen, 2007,  012073
+
+\bibitem{de2024influence}
+De~Pascali M, Fontanella A, Muggiasca S, et~al.
+\newblock Influence of platform motion on the energy production of a floating
+  wind farm.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Florence, 2024,  092046
+
+\bibitem{turbines200512}
+IEC 61400-12-1: Power Performance Measurements of Electricity Producing Wind
+  Turbines.
+\newblock British Standard, 2022.
+
+\bibitem{al2024new}
+Al-Khayat M, Majed A~R.
+\newblock A new method for estimating the annual energy production of wind
+  turbines in hot environments.
+\newblock Renewable and Sustainable Energy Reviews, 2024, 195: 114343
+
+\bibitem{rinker2020comparison}
+Rinker J, Gaertner E, Zahle F, et~al.
+\newblock Comparison of loads from HAWC2 and OpenFAST for the IEA Wind 15 MW
+  Reference Wind Turbine.
+\newblock In: Proc of The Science of Making Torque from Wind.
+\newblock Delft, 2020,  052052
+
+\bibitem{stablein2016using}
+St{\"a}blein A~R, Tibaldi C, Hansen M~H.
+\newblock Using pretwist to reduce power loss of bend-twist coupled blades.
+\newblock In: Proc of 34th Wind Energy Symposium.
+\newblock San Diego, 2016,  1010
+
+\bibitem{ZHENG20041063}
+Zheng Y~H, You Y~G, Shen Y~M.
+\newblock On the radiation and diffraction of water waves by a rectangular
+  buoy.
+\newblock Ocean Engineering, 2004, 31(8): 1063--1082
+
+\end{thebibliography}

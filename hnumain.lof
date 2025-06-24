@@ -1,0 +1,159 @@
+\contentsline {figure}{\numberline {1.1}{\ignorespaces OC3 和 OC4 系列 NREL 5-MW 海上风力机基础模型}}{4}{section*.18}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces 米兰理工大学浮式风力机实验装置}}{8}{section*.23}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces 荷兰海洋研究所\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces OC\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 4\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 半潜式风力机水池实验}}{8}{section*.24}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）水池实验整体布置图}}{8}{section*.25}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）波浪白噪声测试图}}{8}{section*.26}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces 湖南大学漂浮式风力机风洞浪槽试验}}{9}{section*.27}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）实验整体布置}}{9}{section*.28}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）信号测量系统}}{9}{section*.29}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces 叶轮整体涡振\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces CFD\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 模拟}}{10}{section*.33}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces 风力机摆振气动阻尼识别的激振装置：A.质量，B.旋转臂，C.垂直轴，D.电机，E.固定在机舱底板上的框架}}{12}{section*.35}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces NASA\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 机翼模型风洞颤振实验}}{14}{section*.37}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）NASA的 8 英尺风洞}}{14}{section*.38}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）机翼模型二阶模态颤振}}{14}{section*.39}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces MOD-2（a）和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Tjaereborg （b）风力机坎贝尔图}}{15}{section*.41}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）MOD-2\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 两叶片风力机坎贝尔图}}{15}{section*.42}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）Tjaereborg\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 三叶片风力机坎贝尔图}}{15}{section*.43}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces 两叶片（a）和三叶片（b）风力机塔筒的坎贝尔图}}{15}{section*.44}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）两叶片风力机塔筒坎贝尔图}}{15}{section*.45}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）三叶片风力机塔筒坎贝尔图}}{15}{section*.46}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces 后掠型叶片示意图}}{16}{section*.49}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces 风力机结构主、被动控制措施（a）TMD，（b）TLD，（c）TMDI，（d）ATMD}}{17}{section*.50}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces 后缘襟翼叶片沿叶片的（a）展向布置和（b）局部构造示意图}}{18}{section*.52}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）后缘襟翼叶片在风力机叶片的展向布置}}{18}{section*.53}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）后缘襟翼叶片局部构造示意图}}{18}{section*.54}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces 传统塔筒涡振气动附属控制措施}}{19}{section*.55}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces 涡流发生器装置}}{19}{section*.56}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces 涡流发生器作用下翼型的流场对比图：翼型为 NACA 63–621， 左侧为光滑翼型流场，右侧为装备涡流发生器的流场}}{19}{section*.57}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces 利用后缘襟翼叶片控制风力机叶片涡振}}{20}{section*.58}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces 本文内容、章节安排与逻辑架构}}{24}{section*.66}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces NREL\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces OC3\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 5-MW\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 浮式风力机结构布局图}}{26}{section*.71}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 浮式风力机塔筒（a）和叶片（b）的坐标系定义及柔性变形示意图}}{28}{section*.73}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 浮体的六个自由度}}{29}{section*.76}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 转换矩阵\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\mathbf A$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 示意图}}{30}{section*.77}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 耦合重力刚度矩阵机理示意图}}{32}{section*.79}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces 多锚链系泊系统及其坐标系示意图}}{33}{section*.82}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces 锚链运动的描述：(a) 垂直平面；(b) 水平平面}}{34}{section*.83}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces 线性锚链刚度标定方法示意图}}{35}{section*.85}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces 纵荡方向上锚链力与纵荡位移之间的非线性关系（红色实线）和六阶多项式拟合（蓝色圆圈）}}{35}{section*.86}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces 锚链系统刚度与平台位置的关系}}{35}{section*.87}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces 叶素的风速三角形}}{36}{section*.91}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces $\mathrm {d}T$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\mathrm {d}S$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 的展向分布示意图}}{37}{section*.92}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces 推力系数\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $C_T$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 与轴向诱导因子\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $a$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 关系曲线}}{39}{section*.95}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces 气动弹性耦合}}{40}{section*.97}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces 气动阻尼效应示意图}}{41}{section*.98}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Larsen-Madsen\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 动态入流模型所反映的轴向诱导因子时间迟滞}}{42}{section*.101}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces 失速现象}}{43}{section*.103}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces 动态失速的演化}}{44}{section*.104}
+\contentsline {figure}{\numberline {2.19}{\ignorespaces 变速控制器的扭矩与转速关系曲线}}{50}{section*.116}
+\contentsline {figure}{\numberline {2.20}{\ignorespaces 传动链单自由度模型}}{51}{section*.118}
+\contentsline {figure}{\numberline {2.21}{\ignorespaces NREL OC3 5-MW 风力机正常发电运行工况下的静态响应验证}}{52}{section*.122}
+\contentsline {figure}{\numberline {2.22}{\ignorespaces NREL OC3 5-MW 风力机正常发电运行工况瞬态响应验证（均匀风速为 15 m/s，静水）}}{53}{section*.124}
+\contentsline {figure}{\numberline {2.23}{\ignorespaces 停机对风工况浮式风力机线性与非线性动力学模块验证（均匀风速 \( V_0 = 50\tmspace +\thinmuskip {.1667em} \mathrm {m/s} \)，桨距角 \( \beta = 90^\circ \)，方位角 \( \Psi \in [0^\circ , 120^\circ , 240^\circ ] \)，风偏角 \( \chi = 0^\circ \)，静水环境）}}{54}{section*.127}
+\contentsline {figure}{\numberline {2.24}{\ignorespaces 停机偏航工况下浮式风力机非线性动力学模块失稳响应验证（均匀风速 \( V_0 = 50\tmspace +\thinmuskip {.1667em} \mathrm {m/s} \)，桨距角 \( \beta = 90^\circ \)，方位角 \( \Psi \in [0^\circ , 120^\circ , 240^\circ ] \)，风偏角 \( \chi = 25^\circ \)，静水环境）}}{55}{section*.129}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 叶素的感知风速与气动力}}{57}{section*.135}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 风力机塔顶的气动力}}{58}{section*.136}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 解析势流理论和 AQWA 对 NREL OC3 5-MW 风力机的 Spar 浮式平台辐射阻尼系数计算结果对比（忽略浮体上部锥度）}}{64}{section*.141}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Morison\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 方程线性化验证：JONSWAP\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 谱下 OC3 浮体的纵荡和纵摇响应}}{65}{section*.143}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 线性模型和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces FAST\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 模型中在波浪作用下浮体的幅值响应算子（RAO）（不考虑风效应，波浪频率范围为\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 0.01\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Hz\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 至\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 0.45\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Hz）}}{67}{section*.146}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 线性模型与\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces FAST\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 在风浪联合作用下的浮体幅值响应算子（RAO）（风速从 0 到 25 m/s，波浪频率范围为 0.01 Hz 至 0.25 Hz）}}{68}{section*.148}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces 规则波和均匀来流作用下的浮体时域衰减试验（波浪高度：5 m，波浪频率：0.035 Hz，风速：15 m/s）}}{69}{section*.150}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces 运行状态下浮体模态的气动阻尼比}}{70}{section*.154}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces 浮体水动力辐射阻尼比随振动频率的变化规律}}{70}{section*.157}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces 利用线性\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Morison\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 方程计算得到的粘性阻尼比}}{71}{section*.159}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces 不同阻尼作用下的纵荡（a）、横摇（b）和纵摇（c）运动的\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces RAO（风速：11.4 m/s，波高：5 m，波浪频率：0.01\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Hz – 0.35\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Hz）}}{72}{section*.164}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces 塔筒振型：一阶、二阶前后和侧向模态}}{73}{section*.167}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces 叶轮模态：一阶、二阶挥舞和摆振模态}}{73}{section*.168}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces 运行中的\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces NREL OC3 5-MW\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 风力机主要模态的气动阻尼比}}{75}{section*.171}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 停机静止风力机叶素的局部攻角定义}}{79}{section*.177}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 失速颤振时域与频域比较研究流程}}{81}{section*.181}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 漂浮式风力机浮体模态相对于方位角和风偏角的气动阻尼比（不含水动力阻尼）}}{82}{section*.183}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 漂浮式风力机塔筒模态相对于方位角和风偏角的气动阻尼比（不含结构阻尼）}}{83}{section*.184}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 漂浮式风力机叶轮模态相对于方位角和风偏角的气动阻尼比（不含结构阻尼）}}{84}{section*.185}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces DU91\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 翼型缩尺实验的\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $C_l$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $C_d$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 曲线波动}}{84}{section*.186}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces NREL OC3 5-MW 静止风力机平台模态的气动阻尼比，风速 $V_0=50$ m/s，风偏角 $\chi \in \left [-180^\circ , 180^\circ \right ]$，方位角 $\Psi =0^\circ $（不包括水动力阻尼）}}{85}{section*.187}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 摆振气动阻尼系数：$\DOTSI \intop \ilimits@ _{L}\frac {\partial {(\mathrm d{\it {S}})}}{\partial {\it {V_z}}}$（a）和摆振模态阻尼系数 $\DOTSI \intop \ilimits@ _{L}\frac {\partial {(\mathrm d{\it {S}})}}{\partial {\it {V_z}}}\phi ^2(x)$（b） （风速 $V_0= 50 \text { m/s}$，风偏角 $\chi = \left [-180^\circ , 180^\circ \right ]$）}}{86}{section*.190}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces 一阶面内振动（模态 9）的耦合模态}}{87}{section*.193}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces 三阶面外振动（模态 14）的耦合模态}}{87}{section*.194}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces 考虑多模态（平台艏摇、塔筒侧向和叶轮摆振模态）时的气动稳定和不稳定区域}}{87}{section*.196}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces 叶尖截面的极限环振荡（LCOs）及相应的功率谱密度（PSD）（风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 25^\circ $，风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0 = 50\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \mathrm {m/s}$，桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $，方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $）}}{89}{section*.201}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Lissajous\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 曲线：叶尖截面的极限环振荡（LCOs）（方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $，风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 14^\circ $（a），$\chi = 20^\circ $（b）和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi =28^\circ $（c），风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0= 50$ m/s，桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $）}}{90}{section*.202}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Lissajous\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 曲线：叶尖截面的极限环振荡（LCOs）（风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 50^\circ $，方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $ （a）和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi =60^\circ $（b），风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0= 50$ m/s，桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $）}}{90}{section*.203}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces 叶尖 LCO 振幅云图（风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 0^\circ \sim 50^\circ $，风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0 = 26\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \mathrm {m/s} \sim 50\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \mathrm {m/s}$，桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces ，方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $）}}{90}{section*.205}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces 叶尖 LCO 振幅和加速度随风偏角的变化规律（风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 0^\circ \sim 50^\circ $，风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0 = 50\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \mathrm {m/s}$，桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $，方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $）}}{91}{section*.206}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces 水动力阻尼效应在横摇自由度上的时域验证（风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 30^\circ $，风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0 = 50\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \mathrm {m/s}$，叶片桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $，方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $）}}{92}{section*.211}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces 叶片失稳导致的平台纵摇和横摇加速度响应（风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 30^\circ $，风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0 = 50\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \mathrm {m/s}$，叶片桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $，方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $）}}{93}{section*.213}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces 叶片失稳引起的塔筒顶端位移响应（风偏角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\chi = 30^\circ $，风速\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $V_0 = 50\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \mathrm {m/s}$，叶片桨距角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\beta = 90^\circ $，方位角\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\Psi = 0^\circ $）}}{94}{section*.215}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 分离点函数\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \(f\)\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 的定义}}{99}{section*.222}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 叶素单元的三自由度结构动力学模型}}{107}{section*.228}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 定常近场势流重建}}{109}{section*.230}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 定常与准定常基本角度的定义}}{109}{section*.231}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Stäblein\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 动态失速模型验证（算例 2）：FFA-W3-221 翼型，$k=$ 0.63，$c =$ 3 m，\(u_0=\) 10 m/s，$\Delta \gamma $ = 10°，$\gamma _0$ = $-$5°}}{113}{section*.239}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces 一阶\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces IAG\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 动态失速模型验证（算例 1）：S801 翼型，$k=$ 0.073，$c =$ 0.457 m，\(u_0=\) 23.7 m/s，$\Delta \gamma $ = 10.85°，$\gamma _0$ = 19.25°}}{114}{section*.240}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces AeroHor\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 动态失速模型验证（算例 4）：S814 翼型，$k=$ 0.094，$c =$ 0.457 m，\(u_0=\) 27.5 m/s，$\Delta \gamma $ = 10°，$\gamma _0$ = 14°}}{114}{section*.241}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces HGM-OpenFAST\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 动态失速模型验证（算例 2）：FFA-W3-221 翼型，$k=$ 0.63，$c =$ 3 m，\(u_0=\) 10 m/s，$\Delta \gamma $ = 10°，$\gamma _0$ = $-$5°}}{115}{section*.242}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces HGM \( f \)-scaled\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 动态失速模型验证（算例 2 和算例 3）：FFA-W3-221 翼型，$k=$ 0.63，$c =$ 3 m，\(u_0=\) 10 m/s，$\Delta \gamma $ = 10°，$\gamma _0$ = $-$5°/20°}}{116}{section*.243}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces 动态失速气动弹性验证}}{117}{section*.245}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）气动阻尼比—文献结果\cite {stablein2017fundamental}}}{117}{section*.246}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）气动阻尼比—本文结果}}{117}{section*.247}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces 准定常及非定常叶素模型挥舞稳态振幅}}{118}{section*.250}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces 准定常及非定常叶素模型摆振稳态振幅}}{119}{section*.251}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces 准定常及非定常叶素的有效攻角（或准定常攻角）极值}}{120}{section*.253}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces 叶素气动阻尼比随振幅的变化}}{121}{section*.256}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces 做功分析}}{122}{section*.258}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces 用于抑制失速颤振的叶片涡流发生器安装示意图}}{127}{section*.265}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces PSO 算法运行机制}}{128}{section*.267}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces 涡流发生器布置优化的 PSO 方法流程图}}{129}{section*.268}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces 第三个一阶叶轮摆振模态的振型及频率}}{130}{section*.270}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces 在风速 $V_0 = 50 \text { m/s}$、方位角 $\Psi =0^\circ $、风偏角 $\chi =\left [-180^\circ , 180^\circ \right ]$ 条件下，NREL OC3 5-MW 停机静止风力机叶片摆振、塔顶侧向和平台艏摇模态的气动阻尼比}}{131}{section*.272}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces 利用涡流发生器增强风力机气动稳定性的机理示意图}}{132}{section*.275}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces 未安装和安装涡流发生器叶片截面（DU 93-W-210）的升力系数和阻力系数曲线（数据由 XFoilVG 生成）}}{133}{section*.276}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces 利用 PSO 算法对涡流发生器参数进行优化：（a）涡流发生器方案设置；（b）优化效果；（c）迭代收敛过程}}{134}{section*.278}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces 基于\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces PSO\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 的优化结果及其在\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces $\DOTSI \intop \ilimits@ _L\frac {\partial (\mathrm {d} S)}{\partial V_z}$\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 曲线中的位置}}{134}{section*.281}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces 基于\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces PSO\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces FO\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 方法的\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces NREL 5-MW\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 风力机摆振稳定性提升效果}}{135}{section*.282}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces 安装涡流发生器后的叶尖失速颤振振幅控制效果（风偏角 $\chi = 0^\circ \sim 50^\circ $ ，风速 $V_0=50\text { m/s}$，桨距角 $\beta = 90^\circ $）}}{136}{section*.284}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces 安装涡流发生器后的叶尖失速颤振控制效果时域案例验证（风偏角 $\chi =17^\circ $、风速 $V_0=50\text { m/s}$、桨距角 $\beta =90^\circ $）}}{136}{section*.285}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces 15 MW 风力机摆振模态的模态阻尼沿叶片径向和叶轮风偏角方向的分布（a）及涡流发生器在后移深度负阻尼区域中的贡献（b）}}{137}{section*.288}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces 基于\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces PSO\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 和\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces FO\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 方法的\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 15\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces MW\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 风力机摆振失稳控制：涡流发生器的优化布置方案及失稳控制效果}}{137}{section*.289}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces 不同方位角和风偏角下第三个一阶叶轮摆振模态的阻尼比}}{139}{section*.293}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces 叶轮级的风偏角 $\chi _\mathrm {stall}$ 与叶素截面级的局部攻角 $\alpha ^{\prime }_\mathrm {stall}$ 之间的映射}}{139}{section*.294}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces 不同风速下叶片安装涡流发生器后的稳态振幅变化（风速 $V_0=26\sim 50\text { m/s}$，风偏角 $\chi = 25^\circ $，桨距角 $\beta = 90^\circ $）}}{140}{section*.296}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces 不同径向位置和运行风速下的叶片截面归一化局部攻角}}{141}{section*.298}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces 涡流发生器对正常运行条件下的风力机功率和推力性能的影响}}{141}{section*.299}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces 安装涡流发生器前后的塔筒侧向和平台艏摇时域响应对比（风偏角 $\chi =17^\circ $、风速 $V_0=50\text { m/s}$、桨距角 $\beta =90^\circ $）}}{142}{section*.301}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces 平台纵荡运动激起的连锁反应（图片来自\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Wind Energy Science）}}{143}{section*.306}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Ferreira 动态入流模型（离散形式）的稳态响应}}{146}{section*.309}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Ferreira 动态入流模型（离散形式）变桨阶跃试验验证}}{147}{section*.310}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Ferreira 动态入流模型的离散与连续形式方程瞬态响应对比}}{149}{section*.312}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Larsen-Madsen 动态入流模型的离散与连续形式方程瞬态响应对比}}{149}{section*.314}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces 三种\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces PID\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 控制器控制效果比较—功率输出}}{154}{section*.320}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces 三种\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces PID\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 控制器控制效果比较—叶轮转速}}{154}{section*.321}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces 耦合线性模型预测性能验证—不同纵荡振幅下的功率输出}}{156}{section*.326}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces 耦合线性模型预测性能验证—不同纵荡振幅下的致动盘诱导速度}}{156}{section*.327}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces 耦合线性模型预测性能验证—不同纵荡周期下的功率输出}}{157}{section*.328}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces 耦合线性模型预测性能验证—不同纵荡周期下的致动盘诱导速度}}{157}{section*.329}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces CS1\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces -\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces CS7 坐标系定义}}{161}{section*.339}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces CS6\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces -\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces CS7 以及 CS7\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces -\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces CS8 的坐标变换与风速三角形定义}}{163}{section*.341}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces 本文模型与\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces OpenFAST\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 对叶轮功率及荷载预测结果的对比}}{167}{section*.347}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces 截面倾角的定义}}{169}{section*.353}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces 沿叶片长度方向的截面倾角分布（方位角 \(\Psi = 0^\circ \)）}}{169}{section*.354}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces 浮式风力机主要自由度在\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces DLC 1.1\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 工况下全风速范围内的静位移和静转角}}{169}{section*.357}
+\contentsline {figure}{\numberline {8.7}{\ignorespaces 考虑转子倾角和叶片锥角时的功率曲线}}{170}{section*.359}
+\contentsline {figure}{\numberline {8.8}{\ignorespaces 考虑转子倾角和叶片锥角以及叶片大变形时的功率曲线}}{170}{section*.361}
+\contentsline {figure}{\numberline {8.9}{\ignorespaces 考虑转子倾角和叶片锥角以及塔筒变形时的功率曲线}}{171}{section*.363}
+\contentsline {figure}{\numberline {8.10}{\ignorespaces 考虑转子倾角和叶片锥角以及平台静倾角时的功率曲线}}{171}{section*.365}
+\contentsline {figure}{\numberline {8.11}{\ignorespaces 实际风力机变形下的功率曲线}}{172}{section*.367}
+\contentsline {figure}{\numberline {8.12}{\ignorespaces 荷兰北海\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces Weibull\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 分布参数（图片来自\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \href {https://www.dutchoffshorewindatlas.nl/atlas/image-library/image-library/parameters-per-height-180m}{DOWA}）}}{173}{section*.369}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （a）Weibull尺度参数 $a$}}{173}{section*.370}
+\contentsline {subfigure}{\numberline {}{\ignorespaces \fontsize {10.5pt}{13pt}\selectfont （b）无量纲形状参数 $k$}}{173}{section*.371}
+\contentsline {figure}{\numberline {8.13}{\ignorespaces 风速的概率密度函数 PDF 和累积分布函数 CDF}}{174}{section*.372}
+\contentsline {figure}{\numberline {8.14}{\ignorespaces AEP 随风速的分布}}{174}{section*.373}
+\contentsline {figure}{\numberline {8.15}{\ignorespaces 不同原因导致的\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces AEP\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 下降}}{174}{section*.374}
+\contentsline {figure}{\numberline {8.16}{\ignorespaces 攻角偏移\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \(\Delta \alpha \)\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 与功率损失\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \(\Delta P_r\)\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 之间的线性映射}}{175}{section*.377}
+\contentsline {figure}{\numberline {8.17}{\ignorespaces 不同风力机布置下的叶素攻角偏移}}{176}{section*.379}
+\contentsline {figure}{\numberline {8.18}{\ignorespaces 叶片截面的流场状态（风速为 10 m/s）}}{177}{section*.380}
+\contentsline {figure}{\numberline {8.19}{\ignorespaces 风力机变形后（Configuration 5）的攻角摄动及对应的流场状态}}{178}{section*.381}
+\contentsline {figure}{\numberline {8.20}{\ignorespaces 利用算法\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \ref {alg:twist_update}\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 进行的叶素攻角修正效果}}{181}{section*.387}
+\contentsline {figure}{\numberline {8.21}{\ignorespaces 桨距角校正对功率的影响}}{182}{section*.389}
+\contentsline {figure}{\numberline {8.22}{\ignorespaces TSR 校正对功率的影响}}{182}{section*.390}
+\contentsfinish 

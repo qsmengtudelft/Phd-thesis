@@ -1,0 +1,226 @@
+\ttl@change@i {\@ne }{chapter}{0em}{\xiaosi \hei }{\prechaptername ~\thecontentslabel ~\postchaptername ~~~}{}{\titlerule *[5pt]{$\cdot $}\xiaosi \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{2.5em}{\xiaosi \song }{\thecontentslabel \hspace {0.5em}}{}{\hspace {.25em}\titlerule *[5pt]{$\cdot $}\xiaosi \contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{3.25em}{\xiaosi \song }{\thecontentslabel \hspace {0.5em}}{}{\hspace {.25em}\titlerule *[5pt]{$\cdot $}\xiaosi \contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\contentsline {chapter}{学位论文原创性声明和版权使用授权书}{I}{section*.2}
+\contentsline {chapter}{摘要}{II}{section*.3}
+\contentsline {chapter}{Abstract}{V}{section*.5}
+\contentsline {chapter}{插图索引}{XV}{section*.8}
+\contentsline {chapter}{附表索引}{XXI}{section*.10}
+\contentsline {chapter}{\numberline {1}绪\hskip 1em\relax 论}{1}{section*.12}
+\contentsline {section}{\numberline {1.1}研究背景}{1}{section*.13}
+\contentsline {section}{\numberline {1.2}漂浮式风电发展现状}{2}{section*.14}
+\contentsline {subsection}{\numberline {1.2.1}漂浮式风电产业发展现状}{2}{section*.15}
+\contentsline {subsection}{\numberline {1.2.2}漂浮式风力机基准研究模型发展现状}{4}{section*.17}
+\contentsline {section}{\numberline {1.3}漂浮式风力机一体化仿真与实验技术}{5}{section*.19}
+\contentsline {subsection}{\numberline {1.3.1}漂浮式风力机一体化仿真技术}{5}{section*.20}
+\contentsline {subsection}{\numberline {1.3.2}漂浮式风力机实验技术}{7}{section*.22}
+\contentsline {section}{\numberline {1.4}漂浮式风力机的气动弹性稳定问题与控制}{9}{section*.30}
+\contentsline {subsection}{\numberline {1.4.1}风力机经典气动弹性稳定问题}{9}{section*.31}
+\contentsline {subsubsection}{\numberline {1.4.1.1}涡振}{9}{section*.32}
+\contentsline {subsubsection}{\numberline {1.4.1.2}失速颤振}{11}{section*.34}
+\contentsline {subsubsection}{\numberline {1.4.1.3}经典颤振}{12}{section*.36}
+\contentsline {subsubsection}{\numberline {1.4.1.4}旋转谐波振动}{14}{section*.40}
+\contentsline {subsection}{\numberline {1.4.2}气弹稳定控制技术}{16}{section*.47}
+\contentsline {subsubsection}{\numberline {1.4.2.1}结构控制方法}{16}{section*.48}
+\contentsline {subsubsection}{\numberline {1.4.2.2}气动控制方法}{17}{section*.51}
+\contentsline {subsection}{\numberline {1.4.3}漂浮式风力机气弹稳定性研究现状}{20}{section*.59}
+\contentsline {subsubsection}{\numberline {1.4.3.1}经典气弹稳定性问题}{20}{section*.60}
+\contentsline {subsubsection}{\numberline {1.4.3.2}功率损失与振荡}{21}{section*.61}
+\contentsline {section}{\numberline {1.5}现有研究不足和待解决的问题}{22}{section*.62}
+\contentsline {section}{\numberline {1.6}论文工作概述}{23}{section*.63}
+\contentsline {subsection}{\numberline {1.6.1}论文研究目的与思路}{23}{section*.64}
+\contentsline {subsection}{\numberline {1.6.2}论文内容安排}{23}{section*.65}
+\contentsline {chapter}{\numberline {2}漂浮式风力机的动力学一体化建模}{25}{section*.67}
+\contentsline {section}{\numberline {2.1}引言}{25}{section*.68}
+\contentsline {section}{\numberline {2.2}结构有限元建模}{25}{section*.69}
+\contentsline {subsection}{\numberline {2.2.1}漂浮式风力机基本结构与坐标系定义}{25}{section*.70}
+\contentsline {subsection}{\numberline {2.2.2}漂浮式风力机有限元模型概述}{26}{section*.74}
+\contentsline {subsection}{\numberline {2.2.3}漂浮式风力机有限元结构矩阵推导}{28}{section*.75}
+\contentsline {subsection}{\numberline {2.2.4}耦合重力刚度}{31}{section*.78}
+\contentsline {section}{\numberline {2.3}系泊系统建模}{32}{section*.80}
+\contentsline {subsection}{\numberline {2.3.1}非线性系泊模型}{32}{section*.81}
+\contentsline {subsection}{\numberline {2.3.2}线性系泊刚度标定}{34}{section*.84}
+\contentsline {section}{\numberline {2.4}气动力建模}{35}{section*.88}
+\contentsline {subsection}{\numberline {2.4.1}定常叶素动量理论}{36}{section*.89}
+\contentsline {subsubsection}{\numberline {2.4.1.1}经典定常叶素动量理论\cite {hansen2015aerodynamics}}{36}{section*.90}
+\contentsline {subsubsection}{\numberline {2.4.1.2}普朗特叶尖损失}{38}{section*.93}
+\contentsline {subsubsection}{\numberline {2.4.1.3}葛劳沃特修正}{38}{section*.94}
+\contentsline {subsection}{\numberline {2.4.2}准定常叶素动量理论}{40}{section*.96}
+\contentsline {subsection}{\numberline {2.4.3}非定常叶素动量理论}{41}{section*.99}
+\contentsline {subsubsection}{\numberline {2.4.3.1}动态入流}{41}{section*.100}
+\contentsline {subsubsection}{\numberline {2.4.3.2}动态失速}{42}{section*.102}
+\contentsline {subsection}{\numberline {2.4.4}风力机停机状态下的气动升阻力计算模型}{44}{section*.105}
+\contentsline {subsection}{\numberline {2.4.5}气动力的线性化}{45}{section*.106}
+\contentsline {section}{\numberline {2.5}水动力学建模}{45}{section*.107}
+\contentsline {subsection}{\numberline {2.5.1}静水刚度}{45}{section*.108}
+\contentsline {subsection}{\numberline {2.5.2}Morison\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 方程}{46}{section*.109}
+\contentsline {subsection}{\numberline {2.5.3}附加质量}{47}{section*.110}
+\contentsline {subsection}{\numberline {2.5.4}势流理论}{47}{section*.111}
+\contentsline {subsection}{\numberline {2.5.5}粘性拖曳力的线性化—水动力粘性阻尼}{48}{section*.112}
+\contentsline {section}{\numberline {2.6}伺服系统建模}{49}{section*.113}
+\contentsline {subsection}{\numberline {2.6.1}控制—测量滤波器}{49}{section*.114}
+\contentsline {subsection}{\numberline {2.6.2}发电机—扭矩控制器}{50}{section*.115}
+\contentsline {subsection}{\numberline {2.6.3}叶片—桨距控制器}{50}{section*.117}
+\contentsline {section}{\numberline {2.7}模型基本工况验证}{51}{section*.119}
+\contentsline {subsection}{\numberline {2.7.1}运行工况验证}{51}{section*.120}
+\contentsline {subsubsection}{\numberline {2.7.1.1}静态响应验证}{51}{section*.121}
+\contentsline {subsubsection}{\numberline {2.7.1.2}瞬态响应验证}{52}{section*.123}
+\contentsline {subsection}{\numberline {2.7.2}停机工况验证}{53}{section*.125}
+\contentsline {subsubsection}{\numberline {2.7.2.1}稳定工况瞬态响应验证}{53}{section*.126}
+\contentsline {subsubsection}{\numberline {2.7.2.2}失稳工况瞬态响应验证}{54}{section*.128}
+\contentsline {section}{\numberline {2.8}小结}{55}{section*.130}
+\contentsline {chapter}{\numberline {3}运行状态漂浮式风力机的阻尼特性与气弹稳定}{56}{section*.131}
+\contentsline {section}{\numberline {3.1}引言}{56}{section*.132}
+\contentsline {section}{\numberline {3.2}漂浮式风力机运行状态下的气动阻尼矩阵}{56}{section*.133}
+\contentsline {subsection}{\numberline {3.2.1}浮体气动力及气动阻尼矩阵}{56}{section*.134}
+\contentsline {subsection}{\numberline {3.2.2}整机气动力及气动阻尼矩阵}{61}{section*.137}
+\contentsline {subsection}{\numberline {3.2.3}气动阻尼的时间无关化}{62}{section*.138}
+\contentsline {section}{\numberline {3.3}浮体水动力阻尼矩阵}{63}{section*.139}
+\contentsline {subsection}{\numberline {3.3.1}辐射阻尼矩阵}{63}{section*.140}
+\contentsline {subsection}{\numberline {3.3.2}粘性阻尼矩阵}{64}{section*.142}
+\contentsline {section}{\numberline {3.4}气动阻尼与水动力阻尼验证}{66}{section*.144}
+\contentsline {subsection}{\numberline {3.4.1}水动力阻尼验证}{67}{section*.145}
+\contentsline {subsection}{\numberline {3.4.2}气动阻尼验证}{67}{section*.147}
+\contentsline {subsection}{\numberline {3.4.3}时域瞬态响应验证}{68}{section*.149}
+\contentsline {section}{\numberline {3.5}浮体阻尼分析结果}{69}{section*.151}
+\contentsline {subsection}{\numberline {3.5.1}浮体气动阻尼分析结果}{69}{section*.153}
+\contentsline {subsection}{\numberline {3.5.2}浮体水动力阻尼分析结果}{70}{section*.155}
+\contentsline {subsubsection}{\numberline {3.5.2.1}辐射阻尼}{70}{section*.156}
+\contentsline {subsubsection}{\numberline {3.5.2.2}水动力粘性阻尼}{70}{section*.158}
+\contentsline {subsection}{\numberline {3.5.3}浮体总体阻尼分析结果}{71}{section*.160}
+\contentsline {subsubsection}{\numberline {3.5.3.1}典型工况阻尼分析}{71}{section*.161}
+\contentsline {subsubsection}{\numberline {3.5.3.2}阻尼比对浮体\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces RAO\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 的影响}{72}{section*.163}
+\contentsline {section}{\numberline {3.6}整机气动阻尼分析}{73}{section*.165}
+\contentsline {subsection}{\numberline {3.6.1}动力特性分析结果}{73}{section*.166}
+\contentsline {subsection}{\numberline {3.6.2}整机模态气动阻尼分析结果}{74}{section*.170}
+\contentsline {section}{\numberline {3.7}小结}{75}{section*.172}
+\contentsline {chapter}{\numberline {4}停机状态漂浮式风力机的阻尼特性与失速颤振}{77}{section*.173}
+\contentsline {section}{\numberline {4.1}引言}{77}{section*.174}
+\contentsline {section}{\numberline {4.2}浮式风力机停机静止状态下的气动阻尼矩阵}{77}{section*.175}
+\contentsline {subsection}{\numberline {4.2.1}风力机停机静止状态下的准定常气动力}{77}{section*.176}
+\contentsline {subsection}{\numberline {4.2.2}整机气动力线性化及气动阻尼矩阵}{80}{section*.178}
+\contentsline {section}{\numberline {4.3}频域稳定性分析}{81}{section*.179}
+\contentsline {subsection}{\numberline {4.3.1}时域与频域比较研究流程}{81}{section*.180}
+\contentsline {subsection}{\numberline {4.3.2}停机静止风力机的气动阻尼与失速颤振}{82}{section*.182}
+\contentsline {subsection}{\numberline {4.3.3}准定常失速颤振机理}{85}{section*.189}
+\contentsline {subsection}{\numberline {4.3.4}模态耦合分析}{86}{section*.191}
+\contentsline {subsection}{\numberline {4.3.5}失速颤振安全裕度和控制策略}{86}{section*.195}
+\contentsline {section}{\numberline {4.4}时域稳定性分析}{88}{section*.198}
+\contentsline {subsection}{\numberline {4.4.1}叶片响应分析}{88}{section*.199}
+\contentsline {subsubsection}{\numberline {4.4.1.1}极限环振荡（LCOs）}{88}{section*.200}
+\contentsline {subsubsection}{\numberline {4.4.1.2}LCOs\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 云图}{89}{section*.204}
+\contentsline {subsubsection}{\numberline {4.4.1.3}时域与频域方法比较}{91}{section*.207}
+\contentsline {subsection}{\numberline {4.4.2}平台响应分析}{92}{section*.209}
+\contentsline {subsubsection}{\numberline {4.4.2.1}水动力阻尼的影响}{92}{section*.210}
+\contentsline {subsubsection}{\numberline {4.4.2.2}叶片失稳对平台的影响}{92}{section*.212}
+\contentsline {subsection}{\numberline {4.4.3}塔筒响应分析}{93}{section*.214}
+\contentsline {section}{\numberline {4.5}小结}{94}{section*.216}
+\contentsline {chapter}{\numberline {5}基于非定常叶素气动力理论的失速颤振分析}{96}{section*.217}
+\contentsline {section}{\numberline {5.1}引言}{96}{section*.218}
+\contentsline {section}{\numberline {5.2}动态失速数学模型}{96}{section*.219}
+\contentsline {subsection}{\numberline {5.2.1}Stäblein\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 模型}{96}{section*.220}
+\contentsline {subsection}{\numberline {5.2.2}Beddoes-Leishman\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 模型}{98}{section*.221}
+\contentsline {subsection}{\numberline {5.2.3}HGM\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 模型}{102}{section*.223}
+\contentsline {subsection}{\numberline {5.2.4}一阶\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces IAG\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 模型和两分离点一阶\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces IAG\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 模型}{104}{section*.224}
+\contentsline {subsection}{\numberline {5.2.5}HGM á la OpenFAST 模型和 HGM \( f \)-scaled 模型}{106}{section*.225}
+\contentsline {section}{\numberline {5.3}基于叶素的非线性气弹模型}{107}{section*.226}
+\contentsline {subsection}{\numberline {5.3.1}叶素二维三自由度结构动力学模型}{107}{section*.227}
+\contentsline {subsection}{\numberline {5.3.2}定常与准定常攻角}{108}{section*.229}
+\contentsline {subsection}{\numberline {5.3.3}响应的近似解和精确解}{110}{section*.232}
+\contentsline {subsubsection}{\numberline {5.3.3.1}近似解}{110}{section*.233}
+\contentsline {subsubsection}{\numberline {5.3.3.2}精确解}{111}{section*.234}
+\contentsline {section}{\numberline {5.4}模型验证}{111}{section*.235}
+\contentsline {subsection}{\numberline {5.4.1}动态失速验证算例设置}{111}{section*.236}
+\contentsline {subsection}{\numberline {5.4.2}动态失速模型气动力迟滞环验证}{112}{section*.238}
+\contentsline {subsection}{\numberline {5.4.3}气动弹性验证}{114}{section*.244}
+\contentsline {section}{\numberline {5.5}非定常失速颤振稳态响应}{117}{section*.248}
+\contentsline {subsection}{\numberline {5.5.1}稳态振幅}{117}{section*.249}
+\contentsline {subsection}{\numberline {5.5.2}有效攻角}{120}{section*.252}
+\contentsline {section}{\numberline {5.6}非定常失速颤振的演化}{121}{section*.254}
+\contentsline {subsection}{\numberline {5.6.1}振幅依存的气动阻尼}{121}{section*.255}
+\contentsline {subsection}{\numberline {5.6.2}气动力做功分析}{122}{section*.257}
+\contentsline {section}{\numberline {5.7}小结}{123}{section*.259}
+\contentsline {chapter}{\numberline {6}基于涡流发生器的失速颤振控制}{125}{section*.260}
+\contentsline {section}{\numberline {6.1}引言}{125}{section*.261}
+\contentsline {section}{\numberline {6.2}失速颤振与涡流发生器基本理论}{125}{section*.262}
+\contentsline {subsection}{\numberline {6.2.1}停机静止风力机的气动阻尼}{125}{section*.263}
+\contentsline {subsection}{\numberline {6.2.2}涡流发生器布置方案}{126}{section*.264}
+\contentsline {subsection}{\numberline {6.2.3}粒子群优化算法}{128}{section*.266}
+\contentsline {section}{\numberline {6.3}失速颤振的初步分析结果}{130}{section*.269}
+\contentsline {section}{\numberline {6.4}基于涡流发生器的气弹稳定性提升效果}{131}{section*.273}
+\contentsline {subsection}{\numberline {6.4.1}作用机理}{131}{section*.274}
+\contentsline {subsection}{\numberline {6.4.2}粒子群优化算法结果}{133}{section*.277}
+\contentsline {subsection}{\numberline {6.4.3}快速优化算法及优化结果}{133}{section*.280}
+\contentsline {subsection}{\numberline {6.4.4}时域效果验证}{135}{section*.283}
+\contentsline {subsection}{\numberline {6.4.5}涡流发生器对 IEA 15-MW 风力机的失速颤振控制效果}{136}{section*.286}
+\contentsline {section}{\numberline {6.5}讨论}{138}{section*.291}
+\contentsline {subsection}{\numberline {6.5.1}叶轮方位角对涡流发生器布置优化的影响}{138}{section*.292}
+\contentsline {subsection}{\numberline {6.5.2}来流风速对方案优化的影响}{139}{section*.295}
+\contentsline {subsection}{\numberline {6.5.3}涡流发生器对正常运行工况的影响}{140}{section*.297}
+\contentsline {subsection}{\numberline {6.5.4}涡流发生器对塔筒和平台响应的影响}{141}{section*.300}
+\contentsline {section}{\numberline {6.6}小结}{142}{section*.303}
+\contentsline {chapter}{\numberline {7}浮体纵荡导致的功率振荡及其预测}{143}{section*.304}
+\contentsline {section}{\numberline {7.1}引言}{143}{section*.305}
+\contentsline {section}{\numberline {7.2}纵荡引起的动态入流效应描述}{144}{section*.307}
+\contentsline {subsection}{\numberline {7.2.1}时间离散格式描述}{144}{section*.308}
+\contentsline {subsection}{\numberline {7.2.2}时间连续性格式描述}{146}{section*.311}
+\contentsline {subsection}{\numberline {7.2.3}离散—连续变换的通用性}{148}{section*.313}
+\contentsline {subsection}{\numberline {7.2.4}动态入流线性化}{149}{section*.315}
+\contentsline {section}{\numberline {7.3}伺服控制系统}{151}{section*.316}
+\contentsline {subsection}{\numberline {7.3.1}状态空间形式的控制理论}{151}{section*.317}
+\contentsline {subsection}{\numberline {7.3.2}PID\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 控制器的线性化}{152}{section*.318}
+\contentsline {subsection}{\numberline {7.3.3}PID\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 控制器验证}{153}{section*.319}
+\contentsline {section}{\numberline {7.4}动态入流—伺服控制系统耦合及功率预测}{154}{section*.322}
+\contentsline {subsection}{\numberline {7.4.1}状态空间内的耦合}{154}{section*.323}
+\contentsline {subsection}{\numberline {7.4.2}状态观测}{155}{section*.324}
+\contentsline {subsection}{\numberline {7.4.3}模型验证}{155}{section*.325}
+\contentsline {section}{\numberline {7.5}模型其他应用与局限性}{158}{section*.330}
+\contentsline {subsection}{\numberline {7.5.1}伺服系统作动响应预测}{158}{section*.331}
+\contentsline {subsection}{\numberline {7.5.2}控制系统稳定性判定}{158}{section*.332}
+\contentsline {subsection}{\numberline {7.5.3}模型的局限性}{159}{section*.333}
+\contentsline {section}{\numberline {7.6}小结}{159}{section*.334}
+\contentsline {chapter}{\numberline {8}气动弹性导致的能量损失与补偿}{160}{section*.335}
+\contentsline {section}{\numberline {8.1}引言}{160}{section*.336}
+\contentsline {section}{\numberline {8.2}漂浮式风力机能量损失模型}{160}{section*.337}
+\contentsline {subsection}{\numberline {8.2.1}自由度与坐标系定义}{160}{section*.338}
+\contentsline {subsection}{\numberline {8.2.2}变换矩阵}{161}{section*.340}
+\contentsline {subsection}{\numberline {8.2.3}气动荷载与叶轮功率}{164}{section*.342}
+\contentsline {subsubsection}{\numberline {8.2.3.1}气动荷载}{164}{section*.343}
+\contentsline {subsubsection}{\numberline {8.2.3.2}叶轮功率}{165}{section*.344}
+\contentsline {subsection}{\numberline {8.2.4}年发电量估计}{165}{section*.345}
+\contentsline {subsection}{\numberline {8.2.5}模型与验证}{167}{section*.346}
+\contentsline {section}{\numberline {8.3}能量损失现象的量化}{167}{section*.348}
+\contentsline {subsection}{\numberline {8.3.1}大型风力机气动弹性效应的量化}{167}{section*.349}
+\contentsline {subsubsection}{\numberline {8.3.1.1}叶片归一化变形}{167}{section*.350}
+\contentsline {subsubsection}{\numberline {8.3.1.2}叶片弯曲导致的截面倾角}{168}{section*.352}
+\contentsline {subsection}{\numberline {8.3.2}考虑气动弹性效应的功率曲线}{168}{section*.355}
+\contentsline {subsubsection}{\numberline {8.3.2.1}气动弹性变形结果}{168}{section*.356}
+\contentsline {subsubsection}{\numberline {8.3.2.2}风力机永久结构布置下的功率曲线}{169}{section*.358}
+\contentsline {subsubsection}{\numberline {8.3.2.3}叶片大变形下的功率曲线}{170}{section*.360}
+\contentsline {subsubsection}{\numberline {8.3.2.4}塔筒变形下的功率曲线}{171}{section*.362}
+\contentsline {subsubsection}{\numberline {8.3.2.5}平台静倾角下的功率曲线}{171}{section*.364}
+\contentsline {subsubsection}{\numberline {8.3.2.6}实际风力机变形状态下的功率曲线}{171}{section*.366}
+\contentsline {subsection}{\numberline {8.3.3}年发电量损失}{172}{section*.368}
+\contentsline {section}{\numberline {8.4}能量损失机理}{175}{section*.375}
+\contentsline {subsection}{\numberline {8.4.1}攻角偏移与功率损失的线性映射}{175}{section*.376}
+\contentsline {subsection}{\numberline {8.4.2}流场状态}{176}{section*.378}
+\contentsline {section}{\numberline {8.5}能量损失的补偿}{179}{section*.382}
+\contentsline {subsection}{\numberline {8.5.1}叶片预弯}{179}{section*.383}
+\contentsline {subsection}{\numberline {8.5.2}叶片预扭}{179}{section*.385}
+\contentsline {subsection}{\numberline {8.5.3}桨距角和叶尖速比的校正}{181}{section*.388}
+\contentsline {section}{\numberline {8.6}小结}{182}{section*.392}
+\contentsline {chapter}{结论}{184}{section*.393}
+\contentsline {chapter}{参考文献}{188}{section*.396}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces A\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 攻读学位期间所发表的学术论文}{203}{section*.398}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces B\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 漂浮式风力机有限元结构矩阵}{203}{section*.400}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces C\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 运行风力机浮体气动阻尼矩阵中的元素}{207}{section*.402}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces D\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 浮体辐射阻尼系数}{208}{section*.404}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces E\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 停放风力机气动阻尼矩阵中的偏导数推导}{209}{section*.406}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces F\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 两分离点一阶\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces IAG\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 动态失速模型算法}{211}{section*.408}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces G\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 线性动态入流模型中的偏导数推导}{215}{section*.411}
+\contentsline {chapter}{附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces H\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 状态空间中线性\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces PID\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 控制器的矩阵元素推导}{221}{section*.413}
+\contentsline {chapter}{致谢}{225}{section*.415}
+\contentsfinish 
